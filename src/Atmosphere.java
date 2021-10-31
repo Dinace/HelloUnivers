@@ -1,3 +1,5 @@
+package src;
+
 public class Atmosphere {
     float tauxDhydrogene;
     float tauxDeMethane;
